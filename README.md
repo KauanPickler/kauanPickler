@@ -1,42 +1,54 @@
-<!-- README de perfil - fuelpro266 -->
-<h1 align="center">👋 Olá, eu sou o Kauan!</h1>
+# 👋 Olá, eu sou Kauan Pickler!
 
 <p align="center">
-  🚀 <strong>Desenvolvedor Full Stack</strong> focado em criar soluções inteligentes e interfaces modernas. <br>
-  💡 Apaixonado por tecnologia, automação e desafios com ESP32 e IoT.  
+  <a href="https://github.com/fuelpro266">
+    <img src="https://github.com/fuelpro266/kauanPickler/blob/main/profile-header.png?raw=true" alt="Header do perfil de Kauan Pickler">
+  </a>
 </p>
+
+### 🚀 Desenvolvedor Full-stack | Entusiasta de IoT | Inovador
+
+💡 Apaixonado por tecnologia, automação e desafios com ESP32 e IoT. Sempre em busca de soluções criativas e eficientes para problemas complexos.
 
 ---
 
 ### 🧠 Sobre mim
-- 💻 Trabalho com desenvolvimento **Front-end e Back-end**
-- ⚙️ Experiência em **integração de APIs**, **bancos de dados** e **sistemas embarcados**
-- 📱 Crio apps com **React Native, Cordova e Flet**
-- 🌍 Desenvolvo também **dashboards web e sistemas empresariais**
-- 🎯 Sempre em busca de **melhorar a performance e usabilidade dos projetos**
+
+Sou um desenvolvedor **Full-stack** com experiência sólida em **Front-end e Back-end**, focado em entregar produtos de alta qualidade e performance. Minha jornada na tecnologia é impulsionada pela curiosidade e pelo desejo de transformar ideias em realidade através do código. Tenho um carinho especial por **sistemas embarcados** e o universo da **Internet das Coisas (IoT)**, onde vejo um potencial imenso para inovar e automatizar o cotidiano.
+
+- 💻 **Especialista em Desenvolvimento Web:** Construo aplicações web robustas e escaláveis.
+- ⚙️ **Integração de Sistemas:** Experiência em integração de **APIs**, manipulação de **bancos de dados** e comunicação com **sistemas embarcados**.
+- 📱 **Desenvolvimento Mobile:** Crio aplicativos multiplataforma com **React Native, Cordova e Flet**.
+- 🌍 **Dashboards e Sistemas Empresariais:** Desenvolvo **dashboards web intuitivos** e **sistemas empresariais** que otimizam operações.
+- 🎯 **Foco em Performance e Usabilidade:** Minha prioridade é sempre melhorar a experiência do usuário e a eficiência dos projetos.
 
 ---
 
-### 🧩 Linguagens e Tecnologias que domino
+### 🛠️ Minhas Habilidades e Ferramentas
 
 #### 🖥️ Front-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,ionic" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,vite,tailwind,bootstrap,sass,ionic,figma" alt="Habilidades Front-end" />
 </p>
 
 #### ⚙️ Back-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,php,laravel,java,spring,go,mysql,postgresql,mongodb,firebase,docker,kubernetes" alt="Habilidades Back-end" />
 </p>
 
-#### 🔌 IoT e Embarcados
+#### 🔌 IoT e Sistemas Embarcados
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi,ros" alt="Habilidades IoT e Embarcados" />
+</p>
+
+#### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,heroku,jenkins,ansible" alt="Habilidades Cloud e DevOps" />
 </p>
 
 #### 🧰 Ferramentas e Outros
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,postman,jest,cypress,selenium,jira,confluence" alt="Ferramentas e Outros" />
 </p>
 
 ---
@@ -44,26 +56,51 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fuelpro266&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=fuelpro266&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fuelpro266&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=fuelpro266&theme=tokyonight&hide_border=true" alt="Estatísticas de Streak do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuelpro266&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌟 Projetos em Destaque (Em breve!)
+
+*   **[Nome do Projeto 1]** - Uma breve descrição do projeto e o que o torna especial. [Link para o repositório](https://github.com/fuelpro266/)
+*   **[Nome do Projeto 2]** - Outro projeto interessante que demonstra suas habilidades. [Link para o repositório](https://github.com/fuelpro266/)
+*   **[Nome do Projeto 3]** - Um projeto pessoal ou de código aberto que você se orgulha. [Link para o repositório](https://github.com/fuelpro266/)
+
+_Dica: Adicione links para seus repositórios, demos ou artigos sobre esses projetos!_
+
+---
+
+### 🎓 Educação (Em breve!)
+
+*   **[Nome da Instituição]** - [Nome do Curso/Grau], [Ano de Início] - [Ano de Conclusão]
+*   **[Certificação/Bootcamp]** - [Nome da Plataforma/Organização], [Ano de Conclusão]
+
+---
+
+### 🤝 Conecte-se comigo
 
 <p align="center">
   <a href="https://github.com/fuelpro266" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:fuelpro266@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/seu-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/seu-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">✨ “Transformando ideias em código funcional.” ✨</h3>
+<h3 align="center">✨ “Transformando ideias em código funcional e inovando a cada linha.” ✨</h3>
+
