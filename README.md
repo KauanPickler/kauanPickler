@@ -62,21 +62,13 @@ Sou um desenvolvedor **Full-stack** com experiência sólida em **Front-end e Ba
 </p>
 
 ---
-
-### 🌟 Projetos em Destaque (Em breve!)
-
-*   **[Nome do Projeto 1]** - Uma breve descrição do projeto e o que o torna especial. [Link para o repositório](https://github.com/fuelpro266/)
-*   **[Nome do Projeto 2]** - Outro projeto interessante que demonstra suas habilidades. [Link para o repositório](https://github.com/fuelpro266/)
-*   **[Nome do Projeto 3]** - Um projeto pessoal ou de código aberto que você se orgulha. [Link para o repositório](https://github.com/fuelpro266/)
-
 _Dica: Adicione links para seus repositórios, demos ou artigos sobre esses projetos!_
 
 ---
 
 ### 🎓 Educação (Em breve!)
 
-*   **[Nome da Instituição]** - [Nome do Curso/Grau], [Ano de Início] - [Ano de Conclusão]
-*   **[Certificação/Bootcamp]** - [Nome da Plataforma/Organização], [Ano de Conclusão]
+*   **[Senai Brusque]** - [Desenvolvimento de sistemas/Técnico], [2024] - [2025]
 
 ---
 
