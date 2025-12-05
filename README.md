@@ -28,12 +28,12 @@ Sou um desenvolvedor **Full-stack** com experiência sólida em **Front-end e Ba
 
 #### 🖥️ Front-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,vite,tailwind,bootstrap,sass,ionic,figma" alt="Habilidades Front-end" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,vite,tailwind,bootstrap,figma" alt="Habilidades Front-end" />
 </p>
 
 #### ⚙️ Back-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,php,laravel,java,spring,go,mysql,postgresql,mongodb,firebase,docker,kubernetes" alt="Habilidades Back-end" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,laravel,java,mysql,postgresql,mongodb,firebase,docker" alt="Habilidades Back-end" />
 </p>
 
 #### 🔌 IoT e Sistemas Embarcados
