@@ -12,14 +12,18 @@
 
 ```javascript
 const developer = {
-    nome: "Kauan Pickler",
-    role: "Full Stack Developer Web & Mobile",
-    linguagens: ["PHP", "JavaScript", "TypeScript"],
-    especialidades: ["Laravel", "React", "React Native", "Node.js"],
-    arquitetura: ["Clean Architecture", "MVC", "TALL Stack"],
-    desafioAtual: "Construindo soluções inovadoras",
-    funFact: "Eu debugo código melhor com café ☕"
+  nome: "Kauan Pickler",
+  role: "Full Stack Developer Web & Mobile",
+  linguagens: ["PHP", "JavaScript", "TypeScript"],
+  backend: ["Laravel", "Node.js"],
+  frontend: ["React", "React Native", "Livewire"],
+  ui: ["Tailwind CSS", "Filament"],
+  databases: ["MySQL", "MongoDB"],
+  arquitetura: ["Clean Architecture", "MVC", "TALL Stack"],
+  desafioAtual: "Construindo soluções inovadoras",
+  funFact: "Eu debugo código melhor com café ☕"
 };
+
 ```
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
